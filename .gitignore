@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MaximalSumOfElements/MaximalSumOfElements.UI/Properties
+/MaximalSumOfElements/MaximalSumOfElements.UI/obj
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.BL.dll
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.BL.pdb
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.UI.deps.json
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.UI.dll
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.UI.exe
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.UI.pdb
+/MaximalSumOfElements/MaximalSumOfElements.UI/App/MaximalSumOfElements.UI.runtimeconfig.json
+/MaximalSumOfElements/MaximalSumOfElements.UI/bin
+/MaximalSumOfElements/MaximalSumOfElements.Test/bin
+/MaximalSumOfElements/MaximalSumOfElements.Test/obj
+/MaximalSumOfElements/MaximalSumOfElements.BL/bin
+/MaximalSumOfElements/MaximalSumOfElements.BL/obj
+/MaximalSumOfElements/.vs
+/.vs
